@@ -1,33 +1,63 @@
 
-// 尼姆堆的模2加(异或)解法
 /*
-    10
-   101
-  1100
-  1110
---------
-  0101
+  解不定方程
+  97x + 127y = 1
+
+  欧几里得定理 ---- 辗转相除法  gcd
+  扩展欧几里得定理
+  Ax + By = gcd(A,B)
+  理论基础： gcd(A,B) == gcd(B,A%B)
+
+  求出特解后，通解很好表示
+
+  Ax + By = gcd(A,B)
+  Ax + By = gcd(B,A%B)
+  B(A/B x + y) + (A%B)x = gcd(B,A%B)
+  对比：
+  A/B x + y = 新x
+  x = 新y
 */
 public class IndefiniteEquation
 {
-    static void f(int[] a){
-        int sum = 0;
-        for(int i=0; i<a.length; i++){
-            sum ^= a[i];
-        }
-        if(sum==0){
-            System.out.println("输了");
-            return;
+    // 返回最大公约数
+    // xy: 顺便解出的xy
+    /**
+    static int e_gcd(int A, int B, int[] xy)
+    {
+        if(B==0){
+            xy[0] = 1;
+            xy[1] = 0;
+            return A;
         }
 
-        for(int i=0; i<a.length; i++){
-            int x = sum ^ a[i];
-            if(x<a[i]) System.out.println(a[i] + " --> " + x);
-        }
+        int ans = e_gcd(B, A%B, xy);
+        int t = xy[0];
+        xy[0] = xy[1];
+        xy[1] = t - A/B * xy[0];
+        return ans;
+    }
+     **/
+
+    public static void main(String[] args)
+    {
+        int[] xy = new int[2];
+        int a = e_gcd(97,127,xy);
+
+        System.out.println(a);
+        System.out.println(xy[0] + " " + xy[1]);
     }
 
-    public static void main(String[] args){
-        int[] a = {2,5,12,14};
-        f(a);
-    }
+   static int e_gcd(int a,int b,int []xy){
+        if(b==0){
+            xy[0]=1;
+            xy[1]=0;
+            return a;
+        }
+
+        int ans=e_gcd(b,a%b,xy);
+        int t=xy[0];
+        xy[0]=xy[1];
+        xy[1]=t-a/b*xy[0];
+        return ans;
+   }
 }
