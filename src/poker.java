@@ -18,7 +18,6 @@ public class poker {
             char a[]="AA223344".toCharArray();
             arrange(a,0);
             for(Object o:set) System.out.println(o);
-
     }
 
     public static void arrange(char str[],int k){
