@@ -1,3 +1,4 @@
+package com.dx.luan;
 
 /*
   解不定方程

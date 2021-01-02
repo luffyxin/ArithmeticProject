@@ -1,4 +1,4 @@
-package com.nowcoder.xiaozhao2017;
+package com.dx.nowcoder.xiaozhao2017;
 
 import java.io.BufferedReader;
 import java.io.IOException;

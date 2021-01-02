@@ -1,3 +1,5 @@
+package com.dx.luan;
+
 /**
  * Created by Administrator on 2018/3/23.
  * 固定数目的组合问题

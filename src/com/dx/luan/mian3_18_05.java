@@ -1,3 +1,5 @@
+package com.dx.luan;
+
 import java.util.Random;
 
 /**

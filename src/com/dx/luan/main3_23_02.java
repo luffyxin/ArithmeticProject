@@ -1,3 +1,4 @@
+package com.dx.luan;
 
 public class main3_23_02
 {

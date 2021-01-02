@@ -1,3 +1,4 @@
+package com.dx.luan;
 
 // "AABBBC" 取3个, 哪些取法？
 public class main3_23_03

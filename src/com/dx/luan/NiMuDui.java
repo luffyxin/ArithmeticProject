@@ -1,3 +1,4 @@
+package com.dx.luan;
 
 // 尼姆堆的模2加(异或)解法
 /*

@@ -1,3 +1,5 @@
+package com.dx.luan;
+
 /**
  * Created by Administrator on 2018/3/23.
  * 地产大亨Q先生临终的遗愿是：拿出100万元给X社区的居民抽奖，以稍慰藉心中愧疚。

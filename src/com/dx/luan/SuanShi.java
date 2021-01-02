@@ -1,3 +1,4 @@
+package com.dx.luan;
 
 public class SuanShi
 {

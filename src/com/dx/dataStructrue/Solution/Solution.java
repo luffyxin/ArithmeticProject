@@ -1,4 +1,4 @@
-package com.dataStructrue.Solution;
+package com.dx.dataStructrue.Solution;
 
 import java.util.Scanner;
 import java.util.Stack;

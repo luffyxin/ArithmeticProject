@@ -1,9 +1,10 @@
-package com.dataStructrue;
+package com.dx.dataStructrue;
+
 
 /**
  * Created by Administrator on 2018/6/11.
  */
-public class ArrayStack<E> implements Stack<E> {
+public class ArrayStack<E> implements com.dataStructrue.Stack<E> {
     Array<E> array;
     public ArrayStack(int capacity){
         array=new Array<>(capacity);
