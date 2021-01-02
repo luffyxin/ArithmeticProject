@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa84185d-74d2-4051-99f8-b59517370a20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa84185d-74d2-4051-99f8-b59517370a20" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +38,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566384567594</updated>
       <workItem from="1566384571840" duration="799000" />
-      <workItem from="1609573731955" duration="791000" />
+      <workItem from="1609573731955" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="整理了一下">
       <created>1609574308838</created>
@@ -63,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609574308838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="整理了一下">
+      <created>1609574529504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609574529504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="整理了一下">
+      <created>1609574579153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609574579153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,14 +93,18 @@
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
     <state x="834" y="501" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1609573744540" />
-    <state x="516" y="140" key="CommitChangelistDialog2" timestamp="1609574571909">
+    <state x="516" y="140" key="CommitChangelistDialog2" timestamp="1609574578504">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="516" y="140" key="CommitChangelistDialog2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574571909" />
-    <state x="517" y="287" key="Vcs.Push.Dialog.v2" timestamp="1609574531684">
+    <state x="516" y="140" key="CommitChangelistDialog2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574578504" />
+    <state x="395" y="175" key="SettingsEditor" timestamp="1609574967296">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="517" y="287" key="Vcs.Push.Dialog.v2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574531684" />
+    <state x="395" y="175" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1609574967296" />
+    <state x="517" y="287" key="Vcs.Push.Dialog.v2" timestamp="1609574581951">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="517" y="287" key="Vcs.Push.Dialog.v2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574581951" />
   </component>
   <component name="masterDetails">
     <states>
