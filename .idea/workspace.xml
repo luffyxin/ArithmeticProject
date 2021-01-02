@@ -2,68 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa84185d-74d2-4051-99f8-b59517370a20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blueProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CrossWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GaoSengDouFa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupSelect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IndefiniteEquation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Maintest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NiMuDui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelectBoll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SuanShi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/ArrayQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/ArrayStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/LoopQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/Solution/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dataStructrue/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/main3_18_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/main3_19_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/main3_27_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/main4_20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/main4_20_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/mian3_19_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nowcoder/xiaozhao2017/mian3_27_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Graph/CreateGraph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Graph/GraphDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Graph/GraphL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Graph/GraphM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/List/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/main2018_6_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dengixn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main2_27_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main3_13_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main3_13_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main3_23_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main3_23_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main3_23_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main3_23_04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maopao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian2_26_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian2_26_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian3_06_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian3_08_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian3_13_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian3_18_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mian3_18_05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/people.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/完美字符串.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,46 +24,15 @@
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
+  <component name="ProjectId" id="1mVLIL1Zg9yhPtWfaf4RF1PHnmS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="dreamFor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dreamFor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dreamFor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dreamFor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dreamFor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dreamFor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dreamFor" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dreamFor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dx" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -131,18 +42,6 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -155,49 +54,42 @@
       <option name="presentableId" value="Default" />
       <updated>1566384567594</updated>
       <workItem from="1566384571840" duration="799000" />
+      <workItem from="1609573731955" duration="791000" />
     </task>
+    <task id="LOCAL-00001" summary="整理了一下">
+      <created>1609574308838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609574308838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="799000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-5" y="-5" width="1940" height="1100" extended-state="0" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="RestServices" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="aiXcoder" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="整理了一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="整理了一下" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="194" key="#Notifications" timestamp="1609574523324">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="517" y="194" key="#Notifications/0.0.2048.1240@0.0.2048.1240" timestamp="1609574523324" />
+    <state x="834" y="501" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1609573744540">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="834" y="501" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1609573744540" />
+    <state x="516" y="140" key="CommitChangelistDialog2" timestamp="1609574307660">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="516" y="140" key="CommitChangelistDialog2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574307660" />
+    <state x="517" y="287" key="Vcs.Push.Dialog.v2" timestamp="1609574313193">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="517" y="287" key="Vcs.Push.Dialog.v2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574313193" />
   </component>
   <component name="masterDetails">
     <states>
