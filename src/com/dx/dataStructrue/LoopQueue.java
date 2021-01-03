@@ -3,7 +3,7 @@ package com.dx.dataStructrue;
 /**
  * Created by Administrator on 2018/6/12.
  */
-public class LoopQueue<E> implements com.dataStructrue.Queue<E> {
+public class LoopQueue<E> implements Queue<E> {
 
     private E[] data;
     private int front, tail;

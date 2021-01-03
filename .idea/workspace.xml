@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa84185d-74d2-4051-99f8-b59517370a20" name="Default Changelist" comment="" />
+    <list default="true" id="aa84185d-74d2-4051-99f8-b59517370a20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/dx/leecode/offer/pro09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dx/leecode/offer/pro57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dx/dataStructrue/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dx/dataStructrue/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dx/dataStructrue/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dx/dataStructrue/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dx/dataStructrue/LoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dx/dataStructrue/LoopQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="-5" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1mVLIL1Zg9yhPtWfaf4RF1PHnmS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,12 +47,52 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/workspace/rpam" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.pro57">
+    <configuration name="pro09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dx.leecode.offer.pro09" />
+      <module name="dreamFor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dx.leecode.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pro57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dx.leecode.offer.pro57" />
+      <module name="dreamFor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dx.leecode.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pro57" />
+        <item itemvalue="Application.pro09" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +105,9 @@
       <option name="presentableId" value="Default" />
       <updated>1566384567594</updated>
       <workItem from="1566384571840" duration="799000" />
-      <workItem from="1609573731955" duration="1235000" />
+      <workItem from="1609573731955" duration="7483000" />
+      <workItem from="1609583955123" duration="237000" />
+      <workItem from="1609665153785" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="整理了一下">
       <created>1609574308838</created>
@@ -74,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609574579153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="整理了一下">
+      <created>1609574973818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609574973818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,18 +156,66 @@
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
     <state x="834" y="501" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1609573744540" />
-    <state x="516" y="140" key="CommitChangelistDialog2" timestamp="1609574578504">
+    <state x="516" y="140" key="CommitChangelistDialog2" timestamp="1609574973183">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="516" y="140" key="CommitChangelistDialog2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574578504" />
-    <state x="395" y="175" key="SettingsEditor" timestamp="1609574967296">
+    <state x="516" y="140" key="CommitChangelistDialog2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574973183" />
+    <state width="471" height="582" key="DebuggerActiveHint" timestamp="1609582262117">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="395" y="175" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1609574967296" />
-    <state x="517" y="287" key="Vcs.Push.Dialog.v2" timestamp="1609574581951">
+    <state width="471" height="582" key="DebuggerActiveHint/0.0.2048.1240@0.0.2048.1240" timestamp="1609582262117" />
+    <state x="910" y="417" key="FileChooserDialogImpl" timestamp="1609584169087">
       <screen x="0" y="0" width="2048" height="1240" />
     </state>
-    <state x="517" y="287" key="Vcs.Push.Dialog.v2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574581951" />
+    <state x="910" y="417" key="FileChooserDialogImpl/0.0.2048.1240@0.0.2048.1240" timestamp="1609584169087" />
+    <state width="1384" height="335" key="GridCell.Tab.0.bottom" timestamp="1609582257404">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.0.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257404" />
+    <state width="1384" height="335" key="GridCell.Tab.0.center" timestamp="1609582257404">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.0.center/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257404" />
+    <state width="1384" height="335" key="GridCell.Tab.0.left" timestamp="1609582257403">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.0.left/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257403" />
+    <state width="1384" height="335" key="GridCell.Tab.0.right" timestamp="1609582257404">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.0.right/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257404" />
+    <state width="1384" height="335" key="GridCell.Tab.1.bottom" timestamp="1609582257478">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.1.bottom/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257478" />
+    <state width="1384" height="335" key="GridCell.Tab.1.center" timestamp="1609582257478">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.1.center/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257478" />
+    <state width="1384" height="335" key="GridCell.Tab.1.left" timestamp="1609582257478">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.1.left/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257478" />
+    <state width="1384" height="335" key="GridCell.Tab.1.right" timestamp="1609582257478">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state width="1384" height="335" key="GridCell.Tab.1.right/0.0.2048.1240@0.0.2048.1240" timestamp="1609582257478" />
+    <state x="395" y="175" key="SettingsEditor" timestamp="1609583936420">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="395" y="175" key="SettingsEditor/0.0.2048.1240@0.0.2048.1240" timestamp="1609583936420" />
+    <state x="517" y="287" key="Vcs.Push.Dialog.v2" timestamp="1609574977320">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="517" y="287" key="Vcs.Push.Dialog.v2/0.0.2048.1240@0.0.2048.1240" timestamp="1609574977320" />
+    <state x="1143" y="488" key="com.intellij.ide.util.TipDialog" timestamp="1609583956529">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="1143" y="488" key="com.intellij.ide.util.TipDialog/0.0.2048.1240@0.0.2048.1240" timestamp="1609583956529" />
+    <state x="408" y="229" key="new project wizard" timestamp="1609584191389">
+      <screen x="0" y="0" width="2048" height="1240" />
+    </state>
+    <state x="408" y="229" key="new project wizard/0.0.2048.1240@0.0.2048.1240" timestamp="1609584191389" />
   </component>
   <component name="masterDetails">
     <states>

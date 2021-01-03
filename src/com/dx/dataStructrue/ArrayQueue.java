@@ -3,7 +3,7 @@ package com.dx.dataStructrue;
 /**
  * Created by Administrator on 2018/6/12.
  */
-public class ArrayQueue<E> implements com.dataStructrue.Queue<E> {
+public class ArrayQueue<E> implements Queue<E> {
 
     private Array<E> array;
 
